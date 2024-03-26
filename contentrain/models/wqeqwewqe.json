@@ -58,5 +58,23 @@
     "system": true,
     "defaultField": false,
     "modelId": "wqeqwewqe"
+  },
+  {
+    "name": "qweqwe",
+    "fieldId": "qweqwe",
+    "modelId": "wqeqwewqe",
+    "componentId": "url",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "url": {
+            "value": "http://localhost:8080/workspaces/_fpdhcbbd8/projects/j6tdefxf6l/default/models/wqeqwewqe"
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "string"
   }
 ]
