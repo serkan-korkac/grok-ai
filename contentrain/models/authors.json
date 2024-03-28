@@ -1,0 +1,108 @@
+[
+  {
+    "componentId": "date",
+    "fieldId": "createdAt",
+    "modelId": "authors",
+    "name": "createdAt",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "date",
+    "projectId": "j6tdefxf6l"
+  },
+  {
+    "componentId": "date",
+    "fieldId": "updatedAt",
+    "modelId": "authors",
+    "name": "updatedAt",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "date",
+    "projectId": "j6tdefxf6l"
+  },
+  {
+    "componentId": "single-line-text",
+    "fieldId": "ID",
+    "modelId": "authors",
+    "name": "ID",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string",
+    "projectId": "j6tdefxf6l"
+  },
+  {
+    "componentId": "single-line-text",
+    "fieldId": "status",
+    "modelId": "authors",
+    "name": "status",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string",
+    "projectId": "j6tdefxf6l"
+  },
+  {
+    "componentId": "single-line-text",
+    "fieldId": "fullname",
+    "modelId": "authors",
+    "name": "fullName",
+    "options": {},
+    "validations": {},
+    "fieldType": "string",
+    "projectId": "j6tdefxf6l"
+  },
+  {
+    "componentId": "single-line-text",
+    "fieldId": "job",
+    "modelId": "authors",
+    "name": "job",
+    "options": {},
+    "validations": {},
+    "fieldType": "string",
+    "projectId": "j6tdefxf6l"
+  },
+  {
+    "componentId": "media",
+    "fieldId": "photosrc",
+    "modelId": "authors",
+    "name": "photoSrc",
+    "options": {},
+    "validations": {},
+    "fieldType": "media",
+    "projectId": "j6tdefxf6l"
+  },
+  {
+    "componentId": "single-line-text",
+    "fieldId": "photoalt",
+    "modelId": "authors",
+    "name": "photoAlt",
+    "options": {},
+    "validations": {},
+    "fieldType": "string",
+    "projectId": "j6tdefxf6l"
+  },
+  {
+    "componentId": "multi-line-text",
+    "fieldId": "description",
+    "modelId": "authors",
+    "name": "description",
+    "options": {},
+    "validations": {},
+    "fieldType": "string",
+    "projectId": "j6tdefxf6l"
+  }
+]
