@@ -22,5 +22,12 @@
     "type": "JSON",
     "createdBy": "user",
     "isServerless": false
+  },
+  {
+    "name": "hassiku",
+    "modelId": "wqeqwewqe-1",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
