@@ -113,5 +113,14 @@
     "options": {},
     "validations": {},
     "fieldType": "date"
+  },
+  {
+    "name": "werwer",
+    "fieldId": "werwer",
+    "modelId": "authors",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
