@@ -76,22 +76,5 @@
     },
     "validations": {},
     "fieldType": "string"
-  },
-  {
-    "name": "qweqwedddee-1",
-    "fieldId": "qweqwe-1",
-    "modelId": "wqeqwewqe",
-    "componentId": "url",
-    "validations": {},
-    "options": {
-      "default-value": {
-        "value": true,
-        "form": {
-          "url": {
-            "value": "http://localhost:8080/workspaces/_fpdhcbbd8/projects/j6tdefxf6l/default/models/wqeqwewqe"
-          }
-        }
-      }
-    }
   }
 ]
