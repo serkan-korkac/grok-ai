@@ -104,5 +104,14 @@
     "validations": {},
     "fieldType": "string",
     "projectId": "j6tdefxf6l"
+  },
+  {
+    "name": "rew",
+    "fieldId": "rew",
+    "modelId": "authors",
+    "componentId": "date",
+    "options": {},
+    "validations": {},
+    "fieldType": "date"
   }
 ]
