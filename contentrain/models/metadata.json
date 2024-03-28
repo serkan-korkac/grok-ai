@@ -29,5 +29,13 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "authors",
+    "modelId": "authors",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "saved",
+    "isServerless": false
   }
 ]
