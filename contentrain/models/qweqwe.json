@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "qweqwe"
+  },
+  {
+    "name": "ergte",
+    "fieldId": "ergte",
+    "modelId": "qweqwe",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
