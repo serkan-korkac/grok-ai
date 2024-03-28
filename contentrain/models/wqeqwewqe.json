@@ -76,5 +76,14 @@
     },
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "ser",
+    "fieldId": "ser",
+    "modelId": "wqeqwewqe",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
