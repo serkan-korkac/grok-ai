@@ -58,5 +58,15 @@
     "system": true,
     "defaultField": false,
     "modelId": "asdasd"
+  },
+  {
+    "name": "qwewq",
+    "description": "e",
+    "fieldId": "qwewq",
+    "modelId": "asdasd",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
