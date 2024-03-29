@@ -2,15 +2,15 @@
   {
     "ID": "081bcf40ce9d",
     "createdAt": "Tue Mar 26 2024 17:30:56 GMT+0300 (GMT+03:00)",
-    "updatedAt": "2024-03-29T12:34:51.028Z",
+    "updatedAt": "2024-03-29T12:48:33.847Z",
     "qweqwe": "http://localhost:8080/workspaces/_fpdhcbbd8/projects/j6tdefxf6l/default/models/wqeqwewqe",
-    "status": "publish",
+    "status": "draft",
     "scheduled": false
   },
   {
     "ID": "1998baa6103a",
     "createdAt": "Tue Mar 26 2024 17:32:58 GMT+0300 (GMT+03:00)",
-    "updatedAt": "2024-03-29T12:36:09.813Z",
+    "updatedAt": "2024-03-29T12:48:33.852Z",
     "qweqwe": "http://localhost:8080/workspaces/_fpdhcbbd8/projects/j6tdefxf6l/default/models/wqeqwewqe",
     "status": "draft",
     "scheduled": false
@@ -18,34 +18,34 @@
   {
     "ID": "2471b3a24bc2",
     "createdAt": "Thu Mar 28 2024 17:48:50 GMT+0300 (GMT+03:00)",
-    "updatedAt": "2024-03-29T12:34:51.055Z",
+    "updatedAt": "2024-03-29T12:48:33.872Z",
     "qweqwe": "http://localhost:8080/workspaces/_fpdhcbbd8/projects/j6tdefxf6l/default/models/wqeqwewqe",
     "ser": "rrr",
-    "status": "publish",
+    "status": "draft",
     "scheduled": false
   },
   {
     "ID": "31b74c3a58be",
     "createdAt": "Tue Mar 26 2024 17:32:54 GMT+0300 (GMT+03:00)",
-    "updatedAt": "2024-03-29T12:34:51.063Z",
+    "updatedAt": "2024-03-29T12:48:33.889Z",
     "qweqwe": "http://localhost:8080/workspaces/_fpdhcbbd8/projects/j6tdefxf6l/default/models/wqeqwewqe",
-    "status": "publish",
+    "status": "draft",
     "scheduled": false
   },
   {
     "ID": "5807cc38ad2e",
     "createdAt": "Tue Mar 26 2024 17:32:26 GMT+0300 (GMT+03:00)",
-    "updatedAt": "2024-03-29T12:34:51.070Z",
+    "updatedAt": "2024-03-29T12:48:33.898Z",
     "qweqwe": "http://localhost:8080/workspaces/_fpdhcbbd8/projects/j6tdefxf6l/default/models/wqeqwewqe",
-    "status": "publish",
+    "status": "draft",
     "scheduled": false
   },
   {
     "ID": "bd04eefd34b9",
     "createdAt": "Tue Mar 26 2024 17:31:34 GMT+0300 (GMT+03:00)",
-    "updatedAt": "2024-03-29T12:34:51.078Z",
+    "updatedAt": "2024-03-29T12:48:33.905Z",
     "qweqwe": "http://localhost:8080/workspaces/_fpdhcbbd8/projects/j6tdefxf6l/default/models/wqeqwewqe",
-    "status": "publish",
+    "status": "draft",
     "scheduled": false
   }
 ]
