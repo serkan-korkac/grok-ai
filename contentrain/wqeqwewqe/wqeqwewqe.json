@@ -2,7 +2,7 @@
   {
     "ID": "081bcf40ce9d",
     "createdAt": "Tue Mar 26 2024 17:30:56 GMT+0300 (GMT+03:00)",
-    "updatedAt": "2024-03-29T09:34:48.950Z",
+    "updatedAt": "2024-03-29T13:25:13.205Z",
     "qweqwe": "http://localhost:8080/workspaces/_fpdhcbbd8/projects/j6tdefxf6l/default/models/wqeqwewqe",
     "status": "draft",
     "scheduled": false
@@ -10,16 +10,16 @@
   {
     "ID": "2471b3a24bc2",
     "createdAt": "Thu Mar 28 2024 17:48:50 GMT+0300 (GMT+03:00)",
-    "updatedAt": "2024-03-29T12:53:49.235Z",
+    "updatedAt": "2024-03-29T13:25:13.213Z",
     "qweqwe": "http://localhost:8080/workspaces/_fpdhcbbd8/projects/j6tdefxf6l/default/models/wqeqwewqe",
     "ser": "rrr",
-    "status": "publish",
+    "status": "draft",
     "scheduled": false
   },
   {
     "ID": "31b74c3a58be",
     "createdAt": "Tue Mar 26 2024 17:32:54 GMT+0300 (GMT+03:00)",
-    "updatedAt": "2024-03-29T09:34:49.159Z",
+    "updatedAt": "2024-03-29T13:25:13.223Z",
     "qweqwe": "http://localhost:8080/workspaces/_fpdhcbbd8/projects/j6tdefxf6l/default/models/wqeqwewqe",
     "status": "draft",
     "scheduled": false
@@ -27,7 +27,7 @@
   {
     "ID": "5807cc38ad2e",
     "createdAt": "Tue Mar 26 2024 17:32:26 GMT+0300 (GMT+03:00)",
-    "updatedAt": "2024-03-29T09:34:49.252Z",
+    "updatedAt": "2024-03-29T13:25:13.231Z",
     "qweqwe": "http://localhost:8080/workspaces/_fpdhcbbd8/projects/j6tdefxf6l/default/models/wqeqwewqe",
     "status": "draft",
     "scheduled": false
@@ -35,7 +35,7 @@
   {
     "ID": "bd04eefd34b9",
     "createdAt": "Tue Mar 26 2024 17:31:34 GMT+0300 (GMT+03:00)",
-    "updatedAt": "2024-03-29T09:34:49.349Z",
+    "updatedAt": "2024-03-29T13:25:13.239Z",
     "qweqwe": "http://localhost:8080/workspaces/_fpdhcbbd8/projects/j6tdefxf6l/default/models/wqeqwewqe",
     "status": "draft",
     "scheduled": false
