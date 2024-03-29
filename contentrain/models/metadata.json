@@ -1,0 +1,34 @@
+[
+  {
+    "name": "hassiku",
+    "modelId": "wqeqwewqe",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  },
+  {
+    "name": "qweqwe",
+    "modelId": "qweqwe",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  },
+  {
+    "name": "dassDA",
+    "modelId": "dassda",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  },
+  {
+    "name": "authors",
+    "modelId": "authors",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "saved",
+    "isServerless": false
+  }
+]
