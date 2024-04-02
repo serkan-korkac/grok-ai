@@ -76,5 +76,18 @@
       },
       "createdAt": "2024-04-02T13:57:46.969Z"
     }
+  },
+  {
+    "path": "checkpoints/1712066291297_web_blog_2.webp",
+    "mimetype": "image/webp",
+    "size": 164714,
+    "meta": {
+      "user": {
+        "name": "Serkan Korkaç",
+        "email": "korkacserkan@gmail.com",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJa_iIsnjxbhdZaRi2owIsX9fUPmKA2p438G5oISWDTfg=s96-c"
+      },
+      "createdAt": "2024-04-02T13:58:12.876Z"
+    }
   }
 ]
