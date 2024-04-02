@@ -173,5 +173,19 @@
       },
       "createdAt": "2024-04-02T14:11:39.629Z"
     }
+  },
+  {
+    "path": "checkpoints/1712067146678_user.png",
+    "mimetype": "image/png",
+    "size": 1345,
+    "alt": "ddd",
+    "meta": {
+      "user": {
+        "name": "Serkan Korkaç",
+        "email": "korkacserkan@gmail.com",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJa_iIsnjxbhdZaRi2owIsX9fUPmKA2p438G5oISWDTfg=s96-c"
+      },
+      "createdAt": "2024-04-02T14:12:28.459Z"
+    }
   }
 ]
