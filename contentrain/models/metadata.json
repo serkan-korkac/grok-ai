@@ -22,5 +22,13 @@
     "type": "JSON",
     "createdBy": "saved",
     "isServerless": false
+  },
+  {
+    "name": "test23",
+    "modelId": "test23",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
   }
 ]
