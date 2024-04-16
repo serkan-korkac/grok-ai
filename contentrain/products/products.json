@@ -1,0 +1,11 @@
+[
+  {
+    "ID": "b61def864a8c",
+    "createdAt": "Tue Apr 16 2024 12:04:31 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Tue Apr 16 2024 12:04:31 GMT+0300 (GMT+03:00)",
+    "stock": 2,
+    "name": "123123",
+    "status": "publish",
+    "scheduled": false
+  }
+]
