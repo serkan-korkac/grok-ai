@@ -58,5 +58,23 @@
     "system": true,
     "defaultField": false,
     "modelId": "products"
+  },
+  {
+    "name": "stock",
+    "fieldId": "stock",
+    "modelId": "products",
+    "componentId": "integer",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "integer": {
+            "value": 2
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "number"
   }
 ]
