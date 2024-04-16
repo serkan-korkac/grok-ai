@@ -76,5 +76,14 @@
     },
     "validations": {},
     "fieldType": "number"
+  },
+  {
+    "name": "name",
+    "fieldId": "name",
+    "modelId": "products",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
